@@ -1,1 +1,1 @@
-Practising data visualization with titanic dataset.
+Practising data visualization with titanic dataset. :ship: :bar_chart:
